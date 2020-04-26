@@ -2,7 +2,7 @@
 // const password="987654"+"+&*%"
 // console.log(md5(password))
 // const jwt=require("jwt-simple");
-//生成token
+//111111111
 //参数一：荷载数据--个人信息
 //参数二：是一个钥匙（key）
 // const key="QIQI"
